@@ -1,0 +1,50 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+  }
+  
+  header {
+    background-color: #2b6cb0;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  main {
+    padding: 1rem;
+  }
+  
+  .week {
+    background: white;
+    padding: 1rem;
+    margin: 1rem auto;
+    border-left: 5px solid #2b6cb0;
+    max-width: 700px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  }
+  
+  .week h2 {
+    margin-top: 0;
+  }
+  
+  .week ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .week ul li {
+    padding: 0.4rem 0;
+    border-bottom: 1px solid #eee;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
